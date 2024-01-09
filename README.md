@@ -1,4 +1,4 @@
-<h1>Hi, It's me, Mauricio!<br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/mauricegardner1>Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, It's me, Mauricio!<br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/mauricegardner1>Cybersecurity Professional</a>, <a href="https://youtube.com/@Maurice-Gardner?si=KSxokO9QW-MgKdlN">YouTuber</a></h1>
 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
