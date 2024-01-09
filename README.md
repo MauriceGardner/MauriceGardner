@@ -23,6 +23,7 @@
 - <b>Encryption and Hashing</b>
 
 - <b>Secure Network Communication</b>
+   - [Time-Stamped Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEG5xUl6VAhXUM7aTzEo2cG_&si=ckuWMggP6iPENZge)<b><i></b></i>
 
 - <b>Network Services and Protocols</b>
 
