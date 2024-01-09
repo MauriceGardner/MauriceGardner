@@ -27,6 +27,7 @@
    - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEHmqUUhtw1EqxX1BwVrmkFh)<b><i></b></i>
 
 - <b>Network Services and Protocols</b>
+    - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEHIyRBLU9sw3elTJqQnz5p0)<b><i></b></i>
 
 - <b>Access Control and Authentication</b>
     - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEauHLY--27UdFV6og9UCv9)<b><i></b></i>
