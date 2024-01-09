@@ -6,7 +6,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Scanning & Vulnerability Assessments (Techniques with OpenVas & Wireshark)</b>
-  - [Time-Stamped Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEG5xUl6VAhXUM7aTzEo2cG_&si=ckuWMggP6iPENZge) <b><i></b></i>
+  - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGkmPHaBxxX9CgHbpsl9O47)<b><i></b></i>
 
 - <b>Vulnerability Identification & Management</b>
   - [Time-Stamped Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEG5xUl6VAhXUM7aTzEo2cG_&si=ckuWMggP6iPENZge) <b><i></b></i>
