@@ -1,4 +1,4 @@
-<h1>Hi, It's me, Mauricio! <a href="www.linkedin.com/in/mauricegardner1">Cybersecurity Professional</a>, <br/><a href="[https://medium.com/@Mo21]">Blogger</a>, <a href="https://youtube.com/@Maurice-Gardner?si=MYjT3AeDW3plZKqA">YouTuber(Labs/Projects)</a></h1>
+<h1>Hi, It's me, Mauricio! <a href="www.linkedin.com/in/mauricegardner1">Cybersecurity Professional</a>, <br/><a href="[https://medium.com/@Mo21]" >Blogger</a>, <a href="https://youtube.com/@Maurice-Gardner?si=MYjT3AeDW3plZKqA">YouTuber(Labs/Projects)</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
