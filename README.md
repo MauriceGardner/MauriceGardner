@@ -9,7 +9,7 @@
           - [Analyzing Network Traffic with Wireshark](https://github.com/joshmadakor1/Algorithms-Practice)
             - [Mapping Networks](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Vulnerability Identification & Management</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEG5xUl6VAhXUM7aTzEo2cG_&si=ckuWMggP6iPENZge) <b><i></b></i>
 - <b>Security Assessment Techniques</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
