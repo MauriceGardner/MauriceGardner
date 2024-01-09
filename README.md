@@ -7,24 +7,31 @@
 
 - <b>Vulnerability Identification & Management</b>
   - [Time-Stamped Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEG5xUl6VAhXUM7aTzEo2cG_&si=ckuWMggP6iPENZge) <b><i></b></i>
+
 - <b>Security Assessment Techniques</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- [Time-Stamped Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEG5xUl6VAhXUM7aTzEo2cG_&si=ckuWMggP6iPENZge) <b><i></b></i>
+
 - <b>Digital Forensics & Incident Response</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Time-Stamped Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEG5xUl6VAhXUM7aTzEo2cG_&si=ckuWMggP6iPENZge) <b><i></b></i>
+
 - <b>Security Controls & Protocols</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
  
 - <b>Security Controls & Protocols</b>
- - <b>Security Controls & Protocols</b>
-  - <b>Security Controls & Protocols</b>
-   - <b>Security Controls & Protocols</b>
-    - <b>Security Controls & Protocols</b>
-     - <b>Security Controls & Protocols</b>
+
+- <b>Encryption and Hashing</b>
+
+- <b>Secure Network Communication</b>
+
+- <b>Network Services and Protocols</b>
+
+- <b>Access Control and Authentication</b>
+
+- <b>Wireless and Mobile Security</b>
+
+- <b>Cybersecurity Best Practices</b>
+  
+     
 
 <h2>📺 Popular YouTube Videos</h2>
 
