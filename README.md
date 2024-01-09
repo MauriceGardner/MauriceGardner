@@ -3,11 +3,8 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Scanning & Vulnerability Assessments (Techniques with OpenVas & Wireshark)</b>
-  - [Types of Scanning](https://github.com/joshmadakor1/Algorithms-Practice)
-    - [Scanning & Remediating Vulnerabilities with OpenVas](https://github.com/joshmadakor1/Algorithms-Practice)
-       - [Passive Topology Discovery](https://github.com/joshmadakor1/Algorithms-Practice)
-          - [Analyzing Network Traffic with Wireshark](https://github.com/joshmadakor1/Algorithms-Practice)
-            - [Mapping Networks](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Time-Stamped Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEG5xUl6VAhXUM7aTzEo2cG_&si=ckuWMggP6iPENZge) <b><i></b></i>
+
 - <b>Vulnerability Identification & Management</b>
   - [Time-Stamped Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEG5xUl6VAhXUM7aTzEo2cG_&si=ckuWMggP6iPENZge) <b><i></b></i>
 - <b>Security Assessment Techniques</b>
