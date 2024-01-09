@@ -17,8 +17,8 @@
 - <b>Digital Forensics & Incident Response</b>
   - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFv0EUdt6_o2_ZC76kNQMRp) <b><i></b></i>
 
-- <b>Security Controls & Protocols</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Security Controls & Protocols(Firewall & Network Security)</b>
+  - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGxyN1McoO5UQbmskWoeEqf)
 
 - <b>Encryption and Hashing</b>
 
