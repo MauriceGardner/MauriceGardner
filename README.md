@@ -29,7 +29,7 @@
 - <b>Network Services and Protocols</b>
 
 - <b>Access Control and Authentication</b>
-
+    - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEauHLY--27UdFV6og9UCv9)<b><i></b></i>
 - <b>Wireless and Mobile Security</b>
 
 - <b>Cybersecurity Best Practices</b>
