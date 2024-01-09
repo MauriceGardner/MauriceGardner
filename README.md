@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mo! <a href="www.linkedin.com/in/mauricegardner1">Cybersecurity Professional</a>, <br/><a href="https://github.com/joshmadakor1">Blogger</a>, <a href="https://youtube.com/@Maurice-Gardner?si=MYjT3AeDW3plZKqA">YouTuber(Labs/Projects)</a></h1>
+<h1>Hi, I'm Mo! <a href="[www.linkedin.com/in/mauricegardner1](https://www.linkedin.com/in/mauricegardner1/?trk=public-profile-join-page#:~:text=www.linkedin.com/in/mauricegardner1)">Cybersecurity Professional</a>, <br/><a href="https://github.com/joshmadakor1">Blogger</a>, <a href="https://youtube.com/@Maurice-Gardner?si=MYjT3AeDW3plZKqA">YouTuber(Labs/Projects)</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
