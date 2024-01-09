@@ -19,8 +19,6 @@
 
 - <b>Security Controls & Protocols</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
- 
-- <b>Security Controls & Protocols</b>
 
 - <b>Encryption and Hashing</b>
 
