@@ -21,6 +21,7 @@
   - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGxyN1McoO5UQbmskWoeEqf)
 
 - <b>Encryption and Hashing</b>
+    - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFIdgUI-Ca0zhNf4hVYI1ew)
 
 - <b>Secure Network Communication</b>
    - [Time-Stamped Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEG5xUl6VAhXUM7aTzEo2cG_&si=ckuWMggP6iPENZge)<b><i></b></i>
