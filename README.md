@@ -37,10 +37,8 @@
 <h2>📺 YouTube Channel CyberSecurity Module Playlists</h2>
 
 - [Cybersecurity Fundamentals Playlist](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Cyber Professional Tools](https://youtube.com/playlist?list=PLIfi-ZtjvjEHvlhoeUub1PMpP0KkVb66F&si=fXrJGp5PVb4XsjwY)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Cyber Professional Tools Playlist Part 1](https://youtube.com/playlist?list=PLIfi-ZtjvjEHvlhoeUub1PMpP0KkVb66F&si=fXrJGp5PVb4XsjwY)
+- [Cyber Professional Tools Playlist Part 2](https://youtube.com/playlist?list=PLIfi-ZtjvjEHvlhoeUub1PMpP0KkVb66F&si=fXrJGp5PVb4XsjwY)
 
 <h2>📺 Hacking(Can't post these on YouTube)</h2>
 
