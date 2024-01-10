@@ -1,7 +1,7 @@
 <h1>Hi, I'm Maurice! <br/><a href="https://github.com/MauriceGardner">Programming(Python Automation)</a>, 
    
  <a href="https://www.linkedin.com/in/mauricegardner1">Cybersecurity Professional</a>, 
-   <a href="https://www.youtube.com/c/joshmadakor">YouTube</a></h1>
+   <a href="https://youtube.com/@Maurice-Gardner?si=MPckaYFY4DHnyHGT">YouTube</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
