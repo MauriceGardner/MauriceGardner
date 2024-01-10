@@ -8,34 +8,33 @@
 - <b>Scanning & Vulnerability Assessments (Techniques with OpenVas & Wireshark)</b>
   - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGkmPHaBxxX9CgHbpsl9O47)<b><i></b></i>
 
-- <b>Vulnerability Identification & Management</b>
+- <b>Vulnerability Identification & Management:</b>
   - [Time-Stamped Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEG5xUl6VAhXUM7aTzEo2cG_&si=ckuWMggP6iPENZge) <b><i></b></i>
 
-- <b>Security Assessment Techniques</b>
+- <b>Security Assessment Techniques:</b>
   - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGa2P7ijS756FJHq1xXzpDD) <b><i></b></i>
 
-- <b>Digital Forensics & Incident Response</b>
+- <b>Digital Forensics & Incident Response:</b>
   - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFv0EUdt6_o2_ZC76kNQMRp) <b><i></b></i>
 
-- <b>Security Controls & Protocols(Firewall & Network Security)</b>
+- <b>Security Controls & Protocols(Firewall & Network Security):</b>
   - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGxyN1McoO5UQbmskWoeEqf)
 
-- <b>Encryption and Hashing</b>
+- <b>Encryption and Hashing:</b>
     - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFIdgUI-Ca0zhNf4hVYI1ew)
 
-- <b>Secure Network Communication</b>
+- <b>Secure Network Communication:</b>
    - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEHmqUUhtw1EqxX1BwVrmkFh)<b><i></b></i>
 
-- <b>Network Services and Protocols</b>
+- <b>Network Services and Protocols:</b>
     - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEHIyRBLU9sw3elTJqQnz5p0)<b><i></b></i>
 
-- <b>Access Control and Authentication</b>
+- <b>Access Control and Authentication:</b>
     - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEauHLY--27UdFV6og9UCv9)<b><i></b></i>
-- <b>Wireless and Mobile Security</b>
 
-- <b>Cybersecurity Best Practices</b>
+- <b>Cybersecurity Best Practices(In progress)</b>
   
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular YouTube Playlists</h2>
 
 - [Starting Cybersecurity Fundamentals Playlist](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
@@ -45,21 +44,40 @@
 
 _______________________________________________________________________________________________________________________________________
 
-<h2>👨‍💻 Networking Projects/Labs:</h2>
+<h2>👨‍💻 Networking Projects/Labs:(In progress)</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>DNS & DHCP Configuration</b>
+  - 
+
+- <b>VPN and Network Policy</b>
+   -
+
+- <b>Network Load Balancing and Hyper-V Networking:</b>
+  - 
+
+- <b>Networking Concepts and Troubleshooting:</b>
+  - 
+
+- <b>Windows Server Networking Management:</b>
+  - 
 
 ____________________________________________________________________________________________________________________
 
-<h2>👨‍💻 Linux Projects:</h2>
+<h2>👨‍💻 Linux Projects:(In Progress)</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Linux Operating System Configuration:</b>
+
+- <b>Package Management and System Administration:</b>
+
+- <b>File and Data Management:</b>
+
+- <b>Network and Connectivity:(Utilizing Azure)</b>
+
+- <b>System Monitoring and Troubleshooting:</b>
+
+- <b>Scripting and Automation:</b>
+
+
 
 _____________________________________________________________________________________________________________________
 
