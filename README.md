@@ -34,32 +34,31 @@
 
 - <b>Cybersecurity Best Practices(In progress)</b>
   
-<h2>📺 Popular YouTube Playlists</h2>
+<h2>📺 YouTube Channel CyberSecurity Module Playlists</h2>
 
-- [Starting Cybersecurity Fundamentals Playlist](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Cybersecurity Fundamentals Playlist](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Cyber Professional Tools](https://youtube.com/playlist?list=PLIfi-ZtjvjEHvlhoeUub1PMpP0KkVb66F&si=fXrJGp5PVb4XsjwY)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+<h2>📺 Hacking(Can't post these on YouTube)</h2>
+
 
 _______________________________________________________________________________________________________________________________________
 
 <h2>👨‍💻 Networking Projects/Labs:(In progress)</h2>
 
 - <b>DNS & DHCP Configuration</b>
-  - 
 
-- <b>VPN and Network Policy</b>
-   -
+- <b>VPN & Network Policy</b>
 
-- <b>Network Load Balancing and Hyper-V Networking:</b>
-  - 
+- <b>Network Load Balancing & Hyper-V Networking</b>
 
-- <b>Networking Concepts and Troubleshooting:</b>
-  - 
+- <b>Networking Concepts & Troubleshooting</b>
 
-- <b>Windows Server Networking Management:</b>
-  - 
+- <b>Windows Server Networking Management</b>
+
 
 ____________________________________________________________________________________________________________________
 
@@ -78,60 +77,46 @@ ________________________________________________________________________________
 - <b>Scripting and Automation:</b>
 
 
-
 _____________________________________________________________________________________________________________________
 
-<h2>👨‍💻 Cloud Projects/Labs:</h2>
+<h2>👨‍💻 Cloud Projects/Labs:(In Progress)</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Cloud Deployment Models</b>
+
+- <b>Cloud Resource Management:</b>
+
+- <b>Cloud Concepts & Security</b>
+
+- <b>Cloud Solution Implementation</b>
+
+- <b>Cloud Operations & Optimization</b>
+
+- <b>Disaster Recovery & Troubleshooting</b>
 
 __________________________________________________________________________________________________________________
 
 
-<h2>👨‍💻 Azure Projects:</h2>
+<h2>👨‍💻 Azure Projects:(In Progress)</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Microsoft Azure Virtual Machine Infrastructure</b>
+  
+
+- <b>Power BI Reporting</b>
 
 __________________________________________________________________________________________________________
 
-<h2>👨‍💻 AWS Projects/Labs:</h2>
+<h2>👨‍💻 AWS Projects/Labs:(In Progress)</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+- <b>Getting Started with AWS Tech Essentials</b>
+ 
 ____________________________________________________________________________________________________________
 
-<h2>👨‍💻 SQL Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+<h2>👨‍💻 SQL Projects:(In Progress)</h2>
 
 ______________________________________________________________________________________________________
 
-<h2>👨‍💻 Python Automation Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-
+<h2>👨‍💻 Python Automation Projects:(In Progress)</h2>
+ 
 
 <h2> 🤳 Connect with me:</h2>
 
