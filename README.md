@@ -3,7 +3,7 @@
  <a href="https://www.linkedin.com/in/mauricegardner1">Cybersecurity Professional</a>  <a href="https://youtube.com/@Maurice-Gardner?si=MPckaYFY4DHnyHGT">YouTube</a></h1>
 
 <details>
-  <summary> style="font-size: 15px;👨‍💻 Cyber Security Projects:</summary>
+  <summary>👨‍💻 Cyber Security Projects:</summary>
 
   - <b>Scanning & Vulnerability Assessments (Techniques with OpenVas & Wireshark)</b>
     - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGkmPHaBxxX9CgHbpsl9O47)<b><i></b></i>
