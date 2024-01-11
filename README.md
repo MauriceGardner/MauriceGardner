@@ -102,12 +102,13 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________
 
 
-<h2>👨‍💻 Azure Projects:(In Progress)</h2>
+<details>
+  <summary>👨‍💻 Azure Projects:(In Progress)</summary>
 
-- <b>Microsoft Azure Virtual Machine Infrastructure</b>
-  
+  - <b>Microsoft Azure Virtual Machine Infrastructure</b>
+  - <b>Power BI Reporting</b>
 
-- <b>Power BI Reporting</b>
+</details>
 
 __________________________________________________________________________________________________________
 
