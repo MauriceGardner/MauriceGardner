@@ -37,13 +37,17 @@
 </details>
 
   
-<h2>📺 Full CyberSecurity Module Playlists:</h2>
+<details>
+  <summary style="font-size: 15px;">📺 Full CyberSecurity Module Playlists:</summary>
 
-- [Cybersecurity Fundamentals Playlist](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Cyber Professional Tools Playlist Part 1](https://youtube.com/playlist?list=PLIfi-ZtjvjEHvlhoeUub1PMpP0KkVb66F&si=fXrJGp5PVb4XsjwY)
-- [Cyber Professional Tools Playlist Part 2](https://youtube.com/playlist?list=PLIfi-ZtjvjEHvlhoeUub1PMpP0KkVb66F&si=fXrJGp5PVb4XsjwY)
-- [Security+ Concept Labs Part 1](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGXLCtnyrHmw_8iB2JhoMXd)
-- [Security+ Concept Labs Part 2](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEmerFdTBY30A1xvgjatALp) 
+  - [Cybersecurity Fundamentals Playlist](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [Cyber Professional Tools Playlist Part 1](https://youtube.com/playlist?list=PLIfi-ZtjvjEHvlhoeUub1PMpP0KkVb66F&si=fXrJGp5PVb4XsjwY)
+  - [Cyber Professional Tools Playlist Part 2](https://youtube.com/playlist?list=PLIfi-ZtjvjEHvlhoeUub1PMpP0KkVb66F&si=fXrJGp5PVb4XsjwY)
+  - [Security+ Concept Labs Part 1](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGXLCtnyrHmw_8iB2JhoMXd)
+  - [Security+ Concept Labs Part 2](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEmerFdTBY30A1xvgjatALp)
+
+</details>
+
 
 _______________________________________________________________________________________________________________________________________
 
