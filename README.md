@@ -119,7 +119,7 @@ ________________________________________________________________________________
 <h2>👨‍💻 Python Automation Projects:(In Progress)</h2>
  
 <details>
-  <summary>Click to expand</summary>
+  <summary>👨‍💻 Cyber Security Projects:</summary>
   
   <!-- Content for your expanded section goes here -->
   <p>This is the expanded content.</p>
