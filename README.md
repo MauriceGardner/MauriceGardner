@@ -138,4 +138,23 @@ ________________________________________________________________________________
  <h2>👨‍💻 Cloud Security (AWS) Projects/Labs:(In Progress)</h2>
 
 - <b>Getting Started with AWS Tech Essentials</b>
+
+
+________________________________________________________________
+
+<details>
+  <summary>Like this repository? You'll love my other repository Dedicated to all things threats! (In progress)</summary>
+
+  - <b>Analysis</b>
+  - <b>Detection</b>
+  - <b>Hunting</b>
+  - <b>Responding</b>
+   - <b>Intelligence</b>
+   - <b>Modeling</b>
+   - <b>Researching</b>
+   - <b>Operations</b>
+   - <b>Mitigating</b>
+  
+</details>
+
  
