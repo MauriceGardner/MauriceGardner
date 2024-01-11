@@ -33,7 +33,7 @@
 
 - <b>Cybersecurity Best Practices(In progress)</b>
   
-<h2>📺 YouTube Channel CyberSecurity Module Playlists:</h2>
+<h2>📺 CyberSecurity Module Playlists:</h2>
 
 - [Cybersecurity Fundamentals Playlist](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Cyber Professional Tools Playlist Part 1](https://youtube.com/playlist?list=PLIfi-ZtjvjEHvlhoeUub1PMpP0KkVb66F&si=fXrJGp5PVb4XsjwY)
