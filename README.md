@@ -56,17 +56,17 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________________________________
 
-<h2>👨‍💻 Networking Projects/Labs:(In progress)</h2>
+<details>
+  <summary>👨‍💻 Networking Projects/Labs:(In progress)</summary>
 
-- <b>DNS & DHCP Configuration</b>
+  - <b>DNS & DHCP Configuration</b>
+  - <b>VPN & Network Policy</b>
+  - <b>Network Load Balancing & Hyper-V Networking</b>
+  - <b>Networking Concepts & Troubleshooting</b>
+  - <b>Windows Server Networking Management</b>
 
-- <b>VPN & Network Policy</b>
+</details>
 
-- <b>Network Load Balancing & Hyper-V Networking</b>
-
-- <b>Networking Concepts & Troubleshooting</b>
-
-- <b>Windows Server Networking Management</b>
 
 
 ____________________________________________________________________________________________________________________
