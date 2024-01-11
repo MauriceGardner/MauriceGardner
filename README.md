@@ -71,19 +71,18 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________
 
-<h2>👨‍💻 Linux Projects:(In Progress)</h2>
+<details>
+  <summary>👨‍💻 Linux Projects:(In Progress)</summary>
 
-- <b>Linux Operating System Configuration:</b>
+  - <b>Linux Operating System Configuration:</b>
+  - <b>Package Management and System Administration:</b>
+  - <b>File and Data Management:</b>
+  - <b>Network and Connectivity:(Utilizing Azure)</b>
+  - <b>System Monitoring and Troubleshooting:</b>
+  - <b>Scripting and Automation:</b>
 
-- <b>Package Management and System Administration:</b>
+</details>
 
-- <b>File and Data Management:</b>
-
-- <b>Network and Connectivity:(Utilizing Azure)</b>
-
-- <b>System Monitoring and Troubleshooting:</b>
-
-- <b>Scripting and Automation:</b>
 
 
 _____________________________________________________________________________________________________________________
