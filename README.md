@@ -111,6 +111,57 @@ ________________________________________________________________________________
   <summary>👨‍💻 AWS Projects/Labs:(In Progress):</summary>
 
 - <b>Getting Started with AWS Tech Essentials</b>
+- <b>Getting Started with Amazon Simple Storage Service (S3)</b>
+- <b>Getting Started with AWS Elastic Compute Cloud</b>
+- <b>Getting Started with AWS Secure Architecture Configuration</b>
+- <b>Build a Network by Using the VPC Wizard</b>
+- <b>Create a Custom AMI by Using an Existing EC2 Instance</b>
+- <b>Implement Security by Using Security Groups</b>
+- <b>Configure Maintenance Windows by Using AWS Systems Manager</b>
+- <b>Perform Automatic Remediation by Using an AWS Config Rule</b>
+- <b>Establish Internet and NAT Gateways</b>
+- <b>Provision and Maintain AWS Resources by Using CloudFormation</b>
+- <b>Execute Commands and Automation Documents by Using the AWS Systems Manager Service</b>
+- <b>Configure an Elastic Load Balancer</b>
+- <b>Configure Amazon S3 Event Logging and Handling</b>
+- <b>Connect to an EC2 Instance by Using RDP</b>
+- <b>Create a Launch Template</b>
+- <b>Implement Scaling for an Amazon RDS Instance</b>
+- <b>Create EC2 Instances by Using Auto Scaling</b>
+- <b>Create an Auto Scaling Group</b>
+- <b>Create Metric Filters</b>
+- <b>Create an Instance by Using a Custom AMI</b>
+- <b>Implement a Fault Tolerant File Service by Using EFS</b>
+- <b>Create an Object Lifecycle Policy for Amazon S3 Documents</b>
+- <b>Automate Snapshots by Using DLM</b>
+- <b>Design a VPC and Associated Subnets</b>
+- <b>Configure Storage by Using EBS</b>
+- <b>Configure an Amazon EventBridge Rule That Triggers an Action</b>
+- <b>Configuring Cross Region Replication for an S3 Bucket</b>
+- <b>Create a CloudWatch Dashboard</b>
+- <b>Configure an S3 Bucket and Website</b>
+- <b>Manage AWS Logs by Using CloudTrail</b>
+- <b>Configure AWS Auto Scaling</b>
+- <b>Implement Caching in AWS by Using DAX</b>
+- <b>Install a Web Server by Using AWS System Manager Run Command</b>
+- <b>AWS Cloud Sandbox</b>
+- <b>Enable Network Security in AWS</b>
+- <b>Configure a Security Group</b>
+- <b>Evaluate AWS Config Rules</b>
+- <b>Can You Implement a Repeatable Compute Layer by Using EC2?</b>
+- <b>Can You Build a Website by Using an Amazon S3 Bucket?</b>
+- <b>Can You Design a Cloud Network by Using AWS?</b>
+- <b>Can You Build a Network Foundation in AWS?</b>
+- <b>Can You Create a Resilient System by Using a Launch Template and an Auto Scaling Group?</b>
+- <b>Can You Automate the Build of EC2 Instances Behind an Elastic Load Balancer?</b>
+- <b>Can You Design an Elastic, Highly Available Architecture in AWS?</b>
+- <b>Can You Create a Custom AMI Based on a New EC2 Instance?</b>
+- <b>Can You Implement Metrics, Alarms, and Filters?</b>
+- <b>Can You Serve a Simple, Static Website with S3?</b>
+- <b>Can You Deploy an End-to-End Solution in AWS?</b>
+- <b>Can You Create a Website with Cross Region Replication and Logging?</b>
+- <b>Can You Configure a Resilient EC2 Server Farm?</b>
+- <b>Can You Implement a Highly Available Website?</b>
 
 </details>
  
