@@ -2,36 +2,40 @@
 | 
  <a href="https://www.linkedin.com/in/mauricegardner1">Cybersecurity Professional</a>  <a href="https://youtube.com/@Maurice-Gardner?si=MPckaYFY4DHnyHGT">YouTube</a></h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<details>
+  <summary> style="font-size: 15px;👨‍💻 Cyber Security Projects:</summary>
 
-- <b>Scanning & Vulnerability Assessments (Techniques with OpenVas & Wireshark)</b>
-  - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGkmPHaBxxX9CgHbpsl9O47)<b><i></b></i>
+  - <b>Scanning & Vulnerability Assessments (Techniques with OpenVas & Wireshark)</b>
+    - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGkmPHaBxxX9CgHbpsl9O47)<b><i></b></i>
 
-- <b>Vulnerability Identification & Management:</b>
-  - [Time-Stamped Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEG5xUl6VAhXUM7aTzEo2cG_&si=ckuWMggP6iPENZge) <b><i></b></i>
+  - <b>Vulnerability Identification & Management:</b>
+    - [Time-Stamped Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEG5xUl6VAhXUM7aTzEo2cG_&si=ckuWMggP6iPENZge) <b><i></b></i>
 
-- <b>Security Assessment Techniques:</b>
-  - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGa2P7ijS756FJHq1xXzpDD) <b><i></b></i>
+  - <b>Security Assessment Techniques:</b>
+    - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGa2P7ijS756FJHq1xXzpDD) <b><i></b></i>
 
-- <b>Digital Forensics & Incident Response:</b>
-  - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFv0EUdt6_o2_ZC76kNQMRp) <b><i></b></i>
+  - <b>Digital Forensics & Incident Response:</b>
+    - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFv0EUdt6_o2_ZC76kNQMRp) <b><i></b></i>
 
-- <b>Security Controls & Protocols(Firewall & Network Security):</b>
-  - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGxyN1McoO5UQbmskWoeEqf)
+  - <b>Security Controls & Protocols(Firewall & Network Security):</b>
+    - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGxyN1McoO5UQbmskWoeEqf)
 
-- <b>Encryption and Hashing:</b>
+  - <b>Encryption and Hashing:</b>
     - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFIdgUI-Ca0zhNf4hVYI1ew)
 
-- <b>Secure Network Communication:</b>
-   - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEHmqUUhtw1EqxX1BwVrmkFh)<b><i></b></i>
+  - <b>Secure Network Communication:</b>
+    - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEHmqUUhtw1EqxX1BwVrmkFh)<b><i></b></i>
 
-- <b>Network Services and Protocols:</b>
+  - <b>Network Services and Protocols:</b>
     - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEHIyRBLU9sw3elTJqQnz5p0)<b><i></b></i>
 
-- <b>Access Control and Authentication:</b>
+  - <b>Access Control and Authentication:</b>
     - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEauHLY--27UdFV6og9UCv9)<b><i></b></i>
 
-- <b>Cybersecurity Best Practices(In progress)</b>
+  - <b>Cybersecurity Best Practices(In progress)</b>
+
+</details>
+
   
 <h2>📺 Full CyberSecurity Module Playlists:</h2>
 
