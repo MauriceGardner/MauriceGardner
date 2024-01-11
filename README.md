@@ -87,19 +87,17 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________
 
-<h2>👨‍💻 Cloud Projects/Labs:(In Progress)</h2>
+<details>
+  <summary>👨‍💻 Cloud Projects/Labs:(In Progress)</summary>
 
-- <b>Cloud Deployment Models</b>
+  - <b>Cloud Deployment Models</b>
+  - <b>Cloud Resource Management:</b>
+  - <b>Cloud Concepts & Security</b>
+  - <b>Cloud Solution Implementation</b>
+  - <b>Cloud Operations & Optimization</b>
+  - <b>Disaster Recovery & Troubleshooting</b>
 
-- <b>Cloud Resource Management:</b>
-
-- <b>Cloud Concepts & Security</b>
-
-- <b>Cloud Solution Implementation</b>
-
-- <b>Cloud Operations & Optimization</b>
-
-- <b>Disaster Recovery & Troubleshooting</b>
+</details>
 
 __________________________________________________________________________________________________________________
 
