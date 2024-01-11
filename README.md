@@ -118,3 +118,65 @@ ________________________________________________________________________________
 
 <h2>👨‍💻 Python Automation Projects:(In Progress)</h2>
  
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Style the tabs */
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #f1f1f1;
+    }
+
+    li {
+      float: left;
+    }
+
+    li a {
+      display: block;
+      color: #000;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+
+    li a:hover {
+      background-color: #ddd;
+    }
+  </style>
+</head>
+<body>
+
+<ul>
+  <li><a href="#section1">Section 1</a></li>
+  <li><a href="#section2">Section 2</a></li>
+  <li><a href="#section3">Section 3</a></li>
+  <!-- Add more list items as needed -->
+</ul>
+
+<!-- Content for each section -->
+<div id="section1">
+  <h2>Section 1 Content</h2>
+  <!-- Add your content here -->
+</div>
+
+<div id="section2">
+  <h2>Section 2 Content</h2>
+  <!-- Add your content here -->
+</div>
+
+<div id="section3">
+  <h2>Section 3 Content</h2>
+  <!-- Add your content here -->
+</div>
+
+<!-- Add more div sections as needed -->
+
+</body>
+</html>
