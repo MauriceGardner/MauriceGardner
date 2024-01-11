@@ -107,8 +107,8 @@ ________________________________________________________________________________
 </details>
 
 __________________________________________________________________________________________________________
-
-<h2>👨‍💻 AWS Projects/Labs:(In Progress)</h2>
+<details>
+  <summary>👨‍💻 AWS Projects/Labs:(In Progress):</summary>
 
 - <b>Getting Started with AWS Tech Essentials</b>
  
