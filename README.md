@@ -5,7 +5,7 @@
 <details>
   <summary>👨‍💻 Key Security Topic Videos:</summary>
 
-  - <b>Scanning & Vulnerability Assessments (Techniques with OpenVas & Wireshark)</b>
+  - <b>Securing & Monitoring Networks with Splunk, OpenVAS, & ZenMap</b>
     - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGkmPHaBxxX9CgHbpsl9O47)<b><i></b></i>
 
   - <b>Vulnerability Identification & Management:</b>
@@ -32,7 +32,7 @@
   - <b>Access Control and Authentication:</b>
     - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEauHLY--27UdFV6og9UCv9)<b><i></b></i>
 
-  - <b>Cybersecurity Best Practices(In progress)</b>
+  - <b>Logs & Monitoring (Splunk  </b>
 
 </details>
 
