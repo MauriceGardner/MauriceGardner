@@ -5,6 +5,9 @@
 <details>
   <summary>👨‍💻 Key Security Topic Videos:</summary>
 
+  - <b>SPLUNK(Incident Response Management Techniques)</b>
+    - [Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEHAP7gYgsY1T4-HdwbSuIV3)<b><i></b></i>
+
   - <b>Securing & Monitoring Networks with Splunk, OpenVAS, & ZenMap</b>
     - [Time-Stamped Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGkmPHaBxxX9CgHbpsl9O47)<b><i></b></i>
 
