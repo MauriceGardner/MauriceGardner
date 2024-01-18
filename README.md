@@ -40,7 +40,7 @@
 
 </details>
 <details>
-  <summary>👨🏾‍💻 Threat Intelligence Skills:</summary>
+  <summary>👨🏾‍💻 Threat Intelligence\Vulnerability Management Skills:</summary>
 </details>
 <details>
   <summary>👨🏾‍💻 CyberSecurity Analyst Skills Skills:</summary>
