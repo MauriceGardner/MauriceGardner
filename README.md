@@ -42,6 +42,9 @@
 <details>
   <summary>👨🏾‍💻 Threat Intelligence Skills:</summary>
 </details>
+<details>
+  <summary>👨🏾‍💻 CyberSecurity Analyst Skills Skills:</summary>
+</details>
   
 <details>
   <summary style="font-size: 15px;">📺 Full CyberSecurity Module Playlists:</summary>
