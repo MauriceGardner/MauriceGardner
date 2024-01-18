@@ -3,7 +3,7 @@
  <a href="https://www.linkedin.com/in/mauricegardner1">Cybersecurity Professional</a>  <a href="https://youtube.com/@Maurice-Gardner?si=MPckaYFY4DHnyHGT">YouTube</a></h1>
 
 <details>
-  <summary>👨‍💻 Key Security Topic Videos:</summary>
+  <summary>👨🏾‍💻 Key Security Topic Videos:</summary>
 
   - <b>SPLUNK(Incident Response Management Techniques)</b>
     - [Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEHAP7gYgsY1T4-HdwbSuIV3)<b><i></b></i>
@@ -52,12 +52,14 @@
 - [Hands-On Cyber Skills Development: Part 1](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGzJW2KfkhdYHuOMlXQgttx)
 </details>
 
-
+<details>
+  <summary>👨🏾‍💻🧠🔒Cyber Extras!:</summary>
+</details>
 _______________________________________________________________________________________________________________________________________
 
 
 <details>
-  <summary>👨‍💻 Networking Projects/Labs:(In progress)</summary>
+  <summary>👨🏾‍💻 Networking Projects/Labs:(In progress)</summary>
 
   - <b>DNS & DHCP Configuration</b>
   - <b>VPN & Network Policy</b>
@@ -72,7 +74,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________
 
 <details>
-  <summary>👨‍💻 Linux Projects:(In Progress)</summary>
+  <summary>👨🏾‍💻 Linux Projects:(In Progress)</summary>
 
   - <b>Linux Operating System Configuration:</b>
   - <b>Package Management and System Administration:</b>
@@ -88,7 +90,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________
 
 <details>
-  <summary>👨‍💻 Cloud Projects/Labs:(In Progress)</summary>
+  <summary>👨🏾‍💻 Cloud Projects/Labs:(In Progress)</summary>
 
   - <b>Cloud Deployment Models</b>
   - <b>Cloud Resource Management:</b>
@@ -103,7 +105,7 @@ ________________________________________________________________________________
 
 
 <details>
-  <summary>👨‍💻 Azure Projects:(In Progress)</summary>
+  <summary>👨🏾‍💻 Azure Projects:(In Progress)</summary>
 
   - <b>Microsoft Azure Virtual Machine Infrastructure</b>
   - <b>Power BI Reporting</b>
@@ -112,7 +114,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________
 <details>
-  <summary>👨‍💻 AWS Projects/Labs:(In Progress):</summary>
+  <summary>👨🏾‍💻 AWS Projects/Labs:(In Progress):</summary>
 
 - <b>Getting Started with AWS Tech Essentials</b>
 - <b>Getting Started with Amazon Simple Storage Service (S3)</b>
@@ -171,11 +173,11 @@ ________________________________________________________________________________
  
 ____________________________________________________________________________________________________________
 
-<h2>👨‍💻 SQL Projects:(In Progress)</h2>
+<h2>👨🏾‍💻 SQL Projects:(In Progress)</h2>
 
 ____________________________________________________________________________________________________________
 
-<h2>👨‍💻 Python Automation Projects:(In Progress)</h2>
+<h2>👨🏾‍💻 Python Automation Projects:(In Progress)</h2>
 
 
 
@@ -186,13 +188,13 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________________________________
 
-<h2>👨‍💻 Cloud Security(Azure) Projects/Labs:(In Progress)</h2>
+<h2>👨🏾‍💻 Cloud Security(Azure) Projects/Labs:(In Progress)</h2>
 
 - <b>Getting Started with AWS Tech Essentials</b>
 
  ________________________________________________________________________________________________________________________
 
- <h2>👨‍💻 Cloud Security (AWS) Projects/Labs:(In Progress)</h2>
+ <h2>👨🏾‍💻 Cloud Security (AWS) Projects/Labs:(In Progress)</h2>
 
 - <b>Getting Started with AWS Tech Essentials</b>
 
