@@ -40,7 +40,10 @@
 
 </details>
 <details>
-  <summary>👨🏾‍💻 Threat Intelligence\Vulnerability Management Skills:</summary>
+  <summary>👨🏾‍💻 Threat Intellligence & Vulnerability Management:</summary>
+
+  - <b>MITRE ATT&CK</b>
+    - [Labs Playlist](Link)<b><i></b></i>
 </details>
 <details>
   <summary>👨🏾‍💻 CyberSecurity Analyst Skills Skills:</summary>
