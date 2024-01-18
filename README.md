@@ -39,7 +39,9 @@
     - [Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEdRIw1hio7gfGOwcSlvHIF)<b><i></b></i>
 
 </details>
-
+<details>
+  <summary>👨🏾‍💻 Threat Intelligence Skills:</summary>
+</details>
   
 <details>
   <summary style="font-size: 15px;">📺 Full CyberSecurity Module Playlists:</summary>
