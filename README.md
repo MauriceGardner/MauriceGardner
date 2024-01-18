@@ -36,7 +36,7 @@
     - [Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEauHLY--27UdFV6og9UCv9)<b><i></b></i>
 
   - <b>Scanning and Vulnerability Assessment:(Scanning Techniques):</b>
-    - [Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEauHLY--27UdFV6og9UCv9)<b><i></b></i>
+    - [Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEdRIw1hio7gfGOwcSlvHIF)<b><i></b></i>
 
 </details>
 
