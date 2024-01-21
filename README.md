@@ -41,7 +41,7 @@
 
 </details>
 <details>
-  <summary>👨🏾‍💻 Threat Intellligence & Vulnerability Management:</summary>
+  <summary>👨🏾‍💻📝 Threat Intellligence & Vulnerability Management:</summary>
 
   - <b>MITRE ATT&CK</b>
     - [Labs Playlist](Link)<b><i></b></i>
