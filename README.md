@@ -47,7 +47,7 @@
     - [Labs Playlist](Link)<b><i></b></i>
 </details>
 <details>
-  <summary>👨🏾‍💻 CyberSecurity Analyst Skills Skills:</summary>
+  <summary>👨🏾‍💻 CyberSecurity Analyst Portfolio:</summary>
 </details>
   
 <details>
