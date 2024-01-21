@@ -3,7 +3,7 @@
  <a href="https://www.linkedin.com/in/mauricegardner1">Cybersecurity Professional</a>          
  
  
- <a href="https://youtube.com/@Maurice-Gardner?si=MPckaYFY4DHnyHGT">Cyber Threat Intel</a> | <a href="https://youtube.com/@Maurice-Gardner?si=MPckaYFY4DHnyHGT">YouTube</a></h1>
+ <a href="https://medium.com/me/stories/public">Cyber Threat Intel</a> | <a href="https://youtube.com/@Maurice-Gardner?si=MPckaYFY4DHnyHGT">YouTube</a></h1>
 
 <details>
   <summary>👨🏾‍💻 Key Security Topic Videos:</summary>
