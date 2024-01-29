@@ -59,7 +59,7 @@
   - [Security+ Concept Labs Part 1](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGXLCtnyrHmw_8iB2JhoMXd)
   - [Security+ Concept Labs Part 2](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEmerFdTBY30A1xvgjatALp)
   - [Hands-On Cyber Skills Development: Part 1](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGzJW2KfkhdYHuOMlXQgttx)
-  - [Hands-On Cyber Skills Development: Part 2]IN PROGRESS
+  - [Hands-On Cyber Skills Development: Part 2](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEKfTQz2Eh6pUZAbRHctkVl)
 </details>
 
 <details>
