@@ -47,7 +47,7 @@
     - [Labs Playlist](Link)<b><i></b></i>
 </details>
 <details>
-  <summary>👨🏾‍💻📝  Additional Cyber skills of documentation Portfolio: Access control Lists | Python Update Files | Incident Reports(DNS & HTTP Traffic, DNS & ICMP Traffic) | Linux File Permissions | Security Risk Assessments | Risk Register | Network Hardening Documentation(Google Doc Files):</summary>
+  <summary>👨🏾‍💻📝 (Google Doc Files)Additional Cyber skills of documentation Portfolio of Access control Lists | Python Update Files | Incident Reports(DNS & HTTP Traffic, DNS & ICMP Traffic) | Linux File Permissions | Security Risk Assessments | Risk Register | Network Hardening Documentation:</summary>
 </details>
   
 <details>
