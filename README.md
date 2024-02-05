@@ -105,8 +105,8 @@ ________________________________________________________________________________
 
 <details>
   <summary>👨🏾‍💻 Cloud Projects/Labs:(In Progress)</summary>
-
-   - <b>General Cloud Concepts</b>
+  
+   - <b>Mastering the Cloud Part 1: A Comprehensive Lab Journey(General Cloud Concepts)</b>
     - [Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEFKAnP8mRsHA7WxXKLS3NH1&si=jWZQ7WeKmGFCCN8T)<b><i></b></i>
   - <b>Cloud Deployment Models</b>
   - <b>Cloud Resource Management:</b>
