@@ -66,7 +66,7 @@
 </details>
 
 <details>
-  <summary style="font-size: 15px;">👨🏾‍💻🧠🔒Cyber Extras:</summary>                                                       
+  <summary style="font-size: 15px;">👨🏾‍💻🧠🔒Cyber Extras:(In Progress)</summary>                                                       
            
    - [Cybersecurity Defensive Tools | Security and Permissions | Configuring a Local Security Policy on Server | Security Concepts in Windows and Linux Environments | Configuring Security Settings by Using Microsoft Group Policy | Implementing New Security Policies | Evaluating Security Policy, Guides and Templates | Managing Active Directory Groups | Configuring SQL Server Security | Implementing File Hashing | Data Science Sandbox:</summary>](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEF9gpDNDT1rlWn4KuQaDjr7)</summary>
 </details>
