@@ -71,6 +71,10 @@ ________________________________________________________________________________
 <details>
   <summary>👨🏾‍💻 Networking Projects/Labs:(In progress)</summary>
 
+   - <b>General Networking Concepts(Based in CompTia Network+ principles)</b>
+    - [Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEHAP7gYgsY1T4-HdwbSuIV3)<b><i></b></i>
+   - <b>General Networking Concepts(Based in CCNA principles)</b>
+    - [Labs Playlist](In progress)<b><i></b></i>
   - <b>DNS & DHCP Configuration</b>
   - <b>VPN & Network Policy</b>
   - <b>Network Load Balancing & Hyper-V Networking</b>
