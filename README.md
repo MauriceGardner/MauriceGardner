@@ -47,7 +47,7 @@
     - [Labs Playlist](Link)<b><i></b></i>
 </details>
 <details>
-  <summary>👨🏾‍💻 CyberSecurity Analyst Portfolio:</summary>
+  <summary>👨🏾‍💻📝  Documentation of additional Cyber skills Portfolio: Access control Lists | Python Update Files | Incident Reports(DNS & HTTP Traffic, DNS & ICMP Traffic) | Linux File Permissions | Security Risk Assessments | Risk Register | Network Hardening Documentation(Google Doc Files):</summary>
 </details>
   
 <details>
