@@ -80,11 +80,11 @@ ________________________________________________________________________________
     - [Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEHAP7gYgsY1T4-HdwbSuIV3)<b><i></b></i>
    - <b>General Networking Concepts(Based in CCNA principles)</b>
     - [Labs Playlist](In progress)<b><i></b></i>
-  - <b>DNS & DHCP Configuration</b>
-  - <b>VPN & Network Policy</b>
-  - <b>Network Load Balancing & Hyper-V Networking</b>
-  - <b>Networking Concepts & Troubleshooting</b>
-  - <b>Windows Server Networking Management</b>
+  - <b>Getting Started with Windows Server Networking</b>
+  - <b>Configure Network Services</b>
+  - <b>Manage Network Settings by Using Windows PowerShell</b>
+  - <b>Configure Network Load Balancing for a Web Farm</b>
+  - <b>Configure Network File Sharing by Using SMB and NFS </b>
 
 </details>
 
