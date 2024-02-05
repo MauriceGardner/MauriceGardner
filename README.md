@@ -129,7 +129,22 @@ ________________________________________________________________________________
   <summary>👨🏾‍💻 Azure Projects:(In Progress)</summary>
 
   - <b>Microsoft Azure Virtual Machine Infrastructure</b>
-  - <b>Power BI Reporting</b>
+  - <b>Create a Chart-based Report by Using Power BI</b>
+  - <b>Deploy a Microsoft Azure Virtual Machine Infrastructure</b>
+  - <b>Azure CLI Tools to Manage Azure Linux Virtual Machines</b>
+  - <b>Deploy Ubuntu Linux Virtual Machines in Microsoft Azure</b>
+  - <b>Configure DNS Client Settings for Linux on Azure</b>
+  - <b>Configure Windows Admin Center to Monitor On-Premises Computers by Using Azure Monitor</b>
+  - <b>Configure a Point-to-Site Virtual Private Network (VPN) Connection between Windows Server and Azure</b>
+  - <b>Manage Windows Server on an Azure Virtual Machine by Using PowerShell Remoting</b>
+  - <b>Generate and Use SSH Keys for Azure Linux Virtual Machine Authentication</b>
+  - <b>Configure Windows Admin Center to Support Management of Azure Hybrid Services</b>
+  - <b>Configure IP Routing with Linux on Azure</b>
+  - <b>Configure Network Connectivity for Linux on Azure</b>
+  - <b>Create a Slicer Report by Using Power BI</b>
+  - <b> Implement a Report by Using Row Level Security</b>
+  
+
 
 </details>
 
