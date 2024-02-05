@@ -95,12 +95,36 @@ ________________________________________________________________________________
 <details>
   <summary>👨🏾‍💻 Linux Projects:(In Progress)</summary>
 
-  - <b>Linux Operating System Configuration:</b>
-  - <b>Package Management and System Administration:</b>
-  - <b>File and Data Management:</b>
-  - <b>Network and Connectivity:(Utilizing Azure)</b>
-  - <b>System Monitoring and Troubleshooting:</b>
-  - <b>Scripting and Automation:</b>
+  - <b>Getting Started with Linux:</b> 
+  - <b>Getting Started with Linux2:</b>
+  - <b>Linux Command Line Fundamentals:</b>
+  - <b>Managing Linux and Windows Systems:</b>
+  - <b>Linux Administration:</b>
+  - <b>Linux System Administration Tasks:</b>
+  - <b>Configuring Network Connectivity for Linux on Azure:</b>
+  - <b>Editing Text Files in Linux:</b>
+  - <b>Configuring an Alias in Linux:</b>
+  - <b>Configuring Standard Permissions in Linux:</b>
+  - <b>Managing Server Startup Options in Linux:</b>
+ - <b>Obtaining Root Credentials in Linux:</b>
+ - <b>Managing Services in Linux:</b>
+ - <b>Configuring Links in Linux:</b>
+ - <b>Performing Linux Command-Line Operations by Using File Test and Relational Operators:</b>
+ - <b>Performing Conditional Decision Making in a Linux Shell Script:</b>
+ - <b>Configuring IPv4 and IPv6 Addressing for Linux:</b>
+ - <b>Using Azure CLI Tools to Manage Azure Linux Virtual Machines:</b>
+ - <b>Assigning Environment and Shell Variables in Linux:</b>
+ - <b>Configuring IP Routing with Linux on Azure:</b>
+ - <b>Deploying Ubuntu Linux Virtual Machines in Microsoft Azure:</b>
+ - <b>Managing Software with RPM and APT in Linux:</b>
+ - <b>Automating Administrative Tasks in Linux Using Cron and Scripting:</b>
+ - <b>Configuring Kickstart Installations in Linux?:</b>
+ - <b>Configuring Linux IPv4 Routing:</b>
+ - <b>Documenting the Server in Linux:</b>
+ - <b>Configuring Linux Time Sources:</b>
+ - <b>Configuring Remote Administration by Using PuTTY and SSH:</b>
+ - <b>Configuring Security for SSH in Linux:</b>
+  
 
 </details>
 
