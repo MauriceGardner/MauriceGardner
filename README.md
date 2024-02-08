@@ -142,17 +142,18 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________
 
 <details>
-  <summary>👨🏾‍💻 Cloud Projects/Labs:(In Progress)</summary>
+  <summary>👨🏾‍💻☁️ Cloud Projects/Labs:(In Progress)</summary>
+
+  <summary style="font-size: 15px;">Full Cloud Module Playlists:(In Progress)</summary> 
   
    - <b>Mastering the Cloud Part 1: A Comprehensive Lab Journey(General Cloud Concepts)</b>
     - [Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEFKAnP8mRsHA7WxXKLS3NH1&si=jWZQ7WeKmGFCCN8T)<b><i></b></i>
    - <b>Mastering the Cloud Part 2: A Comprehensive Lab Journey(General Cloud Concepts)</b>
     - [Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEFVu0I-fM-tFQc3S5G0IlQq&si=MXCOL7TfaX_jMLvP)<b><i></b></i>
-  - <b>Cloud Concepts & Security</b>
-  - <b>Cloud Solution Implementation</b>
-  - <b>Cloud Operations & Optimization</b>
-  - <b>Disaster Recovery & Troubleshooting</b>
-
+ <summary style="font-size: 15px;">🔐☁️Cloud Security Playlist:(In Progress)</summary> 
+   - <b>Securing Cloud Operations Playlist</b>
+    - [Labs Playlist]()<b><i></b></i>
+  
 </details>
 
 __________________________________________________________________________________________________________________
