@@ -146,8 +146,8 @@ ________________________________________________________________________________
   
    - <b>Mastering the Cloud Part 1: A Comprehensive Lab Journey(General Cloud Concepts)</b>
     - [Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEFKAnP8mRsHA7WxXKLS3NH1&si=jWZQ7WeKmGFCCN8T)<b><i></b></i>
-  - <b>Cloud Deployment Models</b>
-  - <b>Cloud Resource Management:</b>
+   - <b>Mastering the Cloud Part 2: A Comprehensive Lab Journey(General Cloud Concepts)</b>
+    - [Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEFVu0I-fM-tFQc3S5G0IlQq&si=MXCOL7TfaX_jMLvP)<b><i></b></i>
   - <b>Cloud Concepts & Security</b>
   - <b>Cloud Solution Implementation</b>
   - <b>Cloud Operations & Optimization</b>
