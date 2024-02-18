@@ -104,35 +104,9 @@ ________________________________________________________________________________
 <details>
   <summary>👨🏾‍💻 Linux Projects:(In Progress)</summary>
 
-  - <b>Getting Started with Linux:</b> 
-  - <b>Getting Started with Linux2:</b>
-  - <b>Linux Command Line Fundamentals:</b>
-  - <b>Managing Linux and Windows Systems:</b>
-  - <b>Linux Administration:</b>
-  - <b>Linux System Administration Tasks:</b>
-  - <b>Configuring Network Connectivity for Linux on Azure:</b>
-  - <b>Editing Text Files in Linux:</b>
-  - <b>Configuring an Alias in Linux:</b>
-  - <b>Configuring Standard Permissions in Linux:</b>
-  - <b>Managing Server Startup Options in Linux:</b>
- - <b>Obtaining Root Credentials in Linux:</b>
- - <b>Managing Services in Linux:</b>
- - <b>Configuring Links in Linux:</b>
- - <b>Performing Linux Command-Line Operations by Using File Test and Relational Operators:</b>
- - <b>Performing Conditional Decision Making in a Linux Shell Script:</b>
- - <b>Configuring IPv4 and IPv6 Addressing for Linux:</b>
- - <b>Using Azure CLI Tools to Manage Azure Linux Virtual Machines:</b>
- - <b>Assigning Environment and Shell Variables in Linux:</b>
- - <b>Configuring IP Routing with Linux on Azure:</b>
- - <b>Deploying Ubuntu Linux Virtual Machines in Microsoft Azure:</b>
- - <b>Managing Software with RPM and APT in Linux:</b>
- - <b>Automating Administrative Tasks in Linux Using Cron and Scripting:</b>
- - <b>Configuring Kickstart Installations in Linux?:</b>
- - <b>Configuring Linux IPv4 Routing:</b>
- - <b>Documenting the Server in Linux:</b>
- - <b>Configuring Linux Time Sources:</b>
- - <b>Configuring Remote Administration by Using PuTTY and SSH:</b>
- - <b>Configuring Security for SSH in Linux:</b>
+- <b>Hands-on Linux: Deep Dive(In progress)</b>
+    - [Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFflT-WnpmR_vE3K1EGRAuz)<b><i></b></i>
+- <b>Using Linux w/ SQL:</b>
   
 
 </details>
