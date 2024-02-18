@@ -124,9 +124,11 @@ ________________________________________________________________________________
     - [Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEFKAnP8mRsHA7WxXKLS3NH1&si=jWZQ7WeKmGFCCN8T)<b><i></b></i>
    - <b>Mastering the Cloud Part 2: A Comprehensive Lab Journey(General Cloud Concepts)</b>
     - [Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEFVu0I-fM-tFQc3S5G0IlQq&si=MXCOL7TfaX_jMLvP)<b><i></b></i>
+
  <summary style="font-size: 15px;">🔐☁️Cloud Security Playlist:(In Progress)</summary> 
+  
    - <b>Securing Cloud Operations Playlist</b>
-    - [Labs Playlist]()<b><i></b></i>
+    - [Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFzW2MvK5EMpxfuQQjAZkNR)<b><i></b></i>
   
 </details>
 
