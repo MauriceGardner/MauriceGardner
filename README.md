@@ -74,7 +74,7 @@ ________________________________________________________________________________
 
 
 <details>
-  <summary>👨🏾‍💻 Networking Projects/Labs:(In progress)</summary>
+  <summary>👨🏾‍💻 Networking Projects/Labs:</summary>
 
    - <b>General Networking Concepts(Based in CompTia Network+ principles)</b>
     - [Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEHAP7gYgsY1T4-HdwbSuIV3)<b><i></b></i>
@@ -102,7 +102,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________
 
 <details>
-  <summary>👨🏾‍💻 Linux Projects:(In Progress)</summary>
+  <summary>👨🏾‍💻 Linux Projects:</summary>
 
 - <b>Hands-on Linux: Deep Dive(In progress)</b>
     - [Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFflT-WnpmR_vE3K1EGRAuz)<b><i></b></i>
@@ -116,7 +116,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________
 
 <details>
-  <summary>👨🏾‍💻☁️ Cloud Projects/Labs:(In Progress)</summary>
+  <summary>👨🏾‍💻☁️ Cloud Projects/Labs:</summary>
 
   <summary style="font-size: 15px;">Full Cloud Module Playlists:(In Progress)</summary> 
   
@@ -226,21 +226,8 @@ ________________________________________________________________________________
 <h2>👨🏾‍💻 Python Automation Projects:(In Progress)</h2>
 
 
-
 _____________________________________________________________________________________________________________
 
-<h2>👨🏾‍💻 Cloud Security(Azure) Projects/Labs:(In Progress)</h2>
-
-- <b>Getting Started with AWS Tech Essentials</b>
-
- ________________________________________________________________________________________________________________________
-
- <h2>👨🏾‍💻 Cloud Security (AWS) Projects/Labs:(In Progress)</h2>
-
-- <b>Getting Started with AWS Tech Essentials</b>
-
-
-________________________________________________________________
 
 <details>
   <summary>Like this repository? You'll love my other repository Dedicated to all things threats! (In progress)</summary>
