@@ -123,7 +123,7 @@ ________________________________________________________________________________
 
 
 <details>
-  <summary>👨🏾‍💻 Azure Projects:(In Progress)</summary>
+  <summary>👨🏾‍💻 Azure Projects(In Progress):</summary>
 
   - <b>Microsoft Azure Virtual Machine Infrastructure</b>
   - <b>Create a Chart-based Report by Using Power BI</b>
@@ -147,7 +147,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________
 <details>
-  <summary>👨🏾‍💻 AWS Projects/Labs:(In Progress):</summary>
+  <summary>👨🏾‍💻 AWS Projects/Labs(In Progress):</summary>
 
 - <b>Getting Started with AWS Tech Essentials</b>
 - <b>Getting Started with Amazon Simple Storage Service (S3)</b>
