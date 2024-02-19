@@ -98,8 +98,7 @@ ________________________________________________________________________________
 <details>
   <summary>👨🏾‍💻 Linux Projects:</summary>
 
-- <b>Hands-on Linux: Deep Dive(In progress)</b>
-    - [Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFflT-WnpmR_vE3K1EGRAuz)<b><i></b></i>
+- <b>[Hands-on Linux: Deep Dive](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFflT-WnpmR_vE3K1EGRAuz)<b><i></b></i>
 - <b>Using Linux w/ SQL:</b>
     - [Labs Playlist](In Progress)<b><i></b></i>  
 
