@@ -55,7 +55,7 @@
 
 <details>  <summary style="font-size: 15px;">👨🏾‍💻📝 Assets, Threats, & Vulnerabilities:</summary>                                                       
            
-   - [Encryption:</summary>](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFpPhUBUK3AiHnviwDHHZid)</summary>
+   - [Decrypt an Encrypted Message | Creating Hash Values</summary>](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFpPhUBUK3AiHnviwDHHZid)</summary>
 </details>
 
 
