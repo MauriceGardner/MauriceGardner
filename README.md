@@ -37,7 +37,7 @@
 <details>
   <summary style="font-size: 15px;">👨🏾‍💻📝 Technical Documentation for all projects:</summary>                                                       
            
-   - [Protecting your Enterprise Network]:</summary>](https://drive.google.com/drive/folders/17VWHwfbY7Axv_yGoMaCVyHN1CLpWGS5J?usp=drive_link)</summary>
+   - [Protecting your Enterprise Network:</summary>](https://drive.google.com/drive/folders/17VWHwfbY7Axv_yGoMaCVyHN1CLpWGS5J?usp=drive_link)</summary>
 </details>
   
 <details>
