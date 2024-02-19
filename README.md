@@ -1,7 +1,7 @@
 <h1>Hi, I'm Maurice! <br/><a href="https://www.linkedin.com/in/mauricegardner1">LinkedIn</a> 
 |        
  <a href="https://medium.com/me/stories/public">Cyber Threat Intel</a> |
- <a href="[https://github.com/MauriceGardner](https://drive.google.com/drive/folders/1cytq_bL7DLU_8-88umM2abnRDFWG4CrP?usp=drive_link)">Programming(Python Automation)</a></h1>
+ <a href="https://drive.google.com/drive/folders/1cytq_bL7DLU_8-88umM2abnRDFWG4CrP?usp=drive_link">Programming(Python Automation)</a></h1>
 
 <details>
   <summary>👨🏾‍💻 Key Security Topic Videos:</summary>
