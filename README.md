@@ -57,10 +57,10 @@
   
    
    - [Cybersecurity Fundamentals Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEHzlbTh_4Gpf0oqfsqoSfdD&si=Vx3Y7cUCQgnlZt8i)
-   - [Cyber Professional Tools Playlist Part 1](https://youtube.com/playlist?list=PLIfi-ZtjvjEHvlhoeUub1PMpP0KkVb66F&si=fXrJGp5PVb4XsjwY)
-   - [Cyber Professional Tools Playlist Part 2](https://youtube.com/playlist?list=PLIfi-ZtjvjEHvlhoeUub1PMpP0KkVb66F&si=fXrJGp5PVb4XsjwY)
    - [Security+ Concept Labs Part 1](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGXLCtnyrHmw_8iB2JhoMXd)
    - [Security+ Concept Labs Part 2](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEmerFdTBY30A1xvgjatALp)
+   - [Cyber Professional Tools Playlist Part 1](https://youtube.com/playlist?list=PLIfi-ZtjvjEHvlhoeUub1PMpP0KkVb66F&si=fXrJGp5PVb4XsjwY)
+   - [Cyber Professional Tools Playlist Part 2](https://youtube.com/playlist?list=PLIfi-ZtjvjEHvlhoeUub1PMpP0KkVb66F&si=fXrJGp5PVb4XsjwY)
    - [Hands-On Cyber Skills Development: Part 1](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGzJW2KfkhdYHuOMlXQgttx)
    - [Hands-On Cyber Skills Development: Part 2](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEKfTQz2Eh6pUZAbRHctkVl)
 </details>
