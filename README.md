@@ -230,7 +230,7 @@ ________________________________________________________________________________
 </details>
 
 <details>
-  <summary>🤓📖📚📝🔏 Governance Risk & Compliance:(In progress)</summary>
+  <summary>🤓📖📚📝🔏 Governance Risk & Compliance(In Progress):</summary>
 
 
 </details>
