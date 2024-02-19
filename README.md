@@ -114,12 +114,11 @@ ________________________________________________________________________________
   
  - <b>[Cloud Fundamentals for Azure & AWS(General Cloud Concepts):](https://youtube.com/playlist?list=PLIfi-ZtjvjEFKAnP8mRsHA7WxXKLS3NH1&si=jWZQ7WeKmGFCCN8T)<b><i></b></i>
    
-   - <b>[Cloud Deep Dive:](https://youtube.com/playlist?list=PLIfi-ZtjvjEFVu0I-fM-tFQc3S5G0IlQq&si=MXCOL7TfaX_jMLvP)<b><i></b></i>
+ - <b>[Cloud Deep Dive](https://youtube.com/playlist?list=PLIfi-ZtjvjEFVu0I-fM-tFQc3S5G0IlQq&si=MXCOL7TfaX_jMLvP)<b><i></b></i>
 
  <summary style="font-size: 15px;">🔐☁️Cloud Security Playlist:</summary> 
   
-   - <b>Securing Cloud Operations Playlist</b>
-    - [Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFzW2MvK5EMpxfuQQjAZkNR)<b><i></b></i>
+   - <b>[Securing Cloud Operations](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFzW2MvK5EMpxfuQQjAZkNR)<b><i></b></i>
   
 </details>
 
