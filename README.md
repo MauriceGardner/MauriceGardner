@@ -114,7 +114,7 @@ ________________________________________________________________________________
 
   <summary style="font-size: 15px;">Full Cloud Module Playlists:</summary> 
   
-   - <b>Mastering the Cloud Part 1: A Comprehensive Lab Journey(General Cloud Concepts)</b>
+   - <b>Cloud Fundamentals for Azure & AWS(General Cloud Concepts)</b>
     - [Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEFKAnP8mRsHA7WxXKLS3NH1&si=jWZQ7WeKmGFCCN8T)<b><i></b></i>
    - <b>Mastering the Cloud Part 2: A Comprehensive Lab Journey(General Cloud Concepts)</b>
     - [Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEFVu0I-fM-tFQc3S5G0IlQq&si=MXCOL7TfaX_jMLvP)<b><i></b></i>
