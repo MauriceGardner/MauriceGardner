@@ -32,8 +32,7 @@
 <details>
   <summary>👨🏾‍💻📝 Threat Intellligence | Vulnerability Management:</summary>
 
-  - <b>MITRE ATT&CK</b>
-    - [Labs Playlist](Link)<b><i></b></i>
+  - <b>[MITRE ATT&CK](https://attack.mitre.org/)<b><i></b></i>
 </details>
 <details>
   <summary style="font-size: 15px;">👨🏾‍💻📝 Cyber Documentation Portfolio(Google Doc Files):</summary>                                                       
