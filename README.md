@@ -76,7 +76,7 @@ ________________________________________________________________________________
 <details>
   <summary>👨🏾‍💻 Networking Projects/Labs:</summary>
 
-   - <b>General Networking Concepts(Based in CompTia Network+ principles)</b>
+   - <b>Securing Your Network Foundation: Building on Solid Ground(Based in CompTia Network+ principles)</b>
     - [Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFrQYXZ6UGmKvXHe8Ojtfby)<b><i></b></i>
    - <b>General Networking Concepts(Based in CCNA principles)</b>
     - [Labs Playlist](In progress)<b><i></b></i>
