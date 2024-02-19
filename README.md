@@ -35,7 +35,7 @@
   - <b>[MITRE ATT&CK](https://attack.mitre.org/)<b><i></b></i>
 </details>
 <details>
-  <summary style="font-size: 15px;">👨🏾‍💻📝 Cyber Documentation Portfolio(Google Doc Files):</summary>                                                       
+  <summary style="font-size: 15px;">👨🏾‍💻📝 Technical Documentation for all projects:</summary>                                                       
            
    - [Access control Lists | Python Update Files | Incident Reports(DNS & HTTP Traffic, DNS & ICMP Traffic) | Linux File Permissions | Security Risk Assessments | Risk Register | Network Hardening Documentation:</summary>](https://drive.google.com/drive/folders/17VWHwfbY7Axv_yGoMaCVyHN1CLpWGS5J?usp=drive_link)</summary>
 </details>
