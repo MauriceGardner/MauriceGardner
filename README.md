@@ -76,14 +76,6 @@ ________________________________________________________________________________
 
 
 <details>
-  <summary>🤓📖📚📝🔏 Governance Risk & Compliance:(In progress)</summary>
-
-
-</details>
-
-____________________________________________________________________________________________________________________
-
-<details>
   <summary>👨🏾‍💻 Linux Projects:</summary>
 
 - <b>[Hands-on w/Linux Fundamentals:](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFflT-WnpmR_vE3K1EGRAuz)<b><i></b></i>
@@ -220,4 +212,9 @@ ________________________________________________________________________________
   
 </details>
 
+<details>
+  <summary>🤓📖📚📝🔏 Governance Risk & Compliance:(In progress)</summary>
+
+
+</details>
  
