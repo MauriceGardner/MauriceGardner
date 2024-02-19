@@ -30,7 +30,7 @@
 
 </details>
 <details>
-  <summary>👨🏾‍💻📝 Threat Intellligence | Vulnerability Management:</summary>
+  <summary>👨🏾‍💻📝 Threat Intellligence | Vulnerability Management:(In progress)</summary>
 
   - <b>[MITRE ATT&CK](https://attack.mitre.org/)<b><i></b></i>
 </details>
