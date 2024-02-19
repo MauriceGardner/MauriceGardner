@@ -53,6 +53,12 @@
    - [Enterprise Security Skills Development: Part 2(CISSP Concepts):](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEKfTQz2Eh6pUZAbRHctkVl)
 </details>
 
+<details>  <summary style="font-size: 15px;">👨🏾‍💻📝 Assets, Threats, & Vulnerabilities:</summary>                                                       
+           
+   - [Encryption:</summary>](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFpPhUBUK3AiHnviwDHHZid)</summary>
+</details>
+
+
 <details>
   <summary style="font-size: 15px;">👨🏾‍💻🧠🔒Cyber Extras:(In Progress)</summary>                                                       
            
