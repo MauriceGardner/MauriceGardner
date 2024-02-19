@@ -101,7 +101,7 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________
 <details>
-  <summary>👨🏾‍💻☁️ Cloud Projects/Labs:</summary>
+  <summary>👨🏾‍💻☁️ Cloud Projects/Labs | Cloud Security:</summary>
   
  - <b>[Cloud Fundamentals for Azure & AWS(General Cloud Concepts)](https://youtube.com/playlist?list=PLIfi-ZtjvjEFKAnP8mRsHA7WxXKLS3NH1&si=jWZQ7WeKmGFCCN8T)<b><i></b></i>
    
