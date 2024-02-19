@@ -107,7 +107,7 @@ ________________________________________________________________________________
    
  - <b>[Cloud Deep Dive](https://youtube.com/playlist?list=PLIfi-ZtjvjEFVu0I-fM-tFQc3S5G0IlQq&si=MXCOL7TfaX_jMLvP)<b><i></b></i>
 
- <summary style="font-size: 15px;">🔐☁️Cloud Security Playlist:</summary> 
+ <summary style="font-size: 15px;">🔐☁️Cloud Security:</summary> 
   
    - <b>[Securing Cloud Operations](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFzW2MvK5EMpxfuQQjAZkNR)<b><i></b></i>
   
