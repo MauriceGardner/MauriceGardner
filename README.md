@@ -213,7 +213,19 @@ ________________________________________________________________________________
   
 ____________________________________________________________________________________________________________
 
+<details>
+  <summary>🤓📖📚📝🔏 Governance Risk & Compliance(In Progress):</summary>
 
+
+</details>
+ ____________________________________________________________________________________________________________________
+
+ <details>
+  <summary>🟦🤝🏾🟥⚔️🟪Purple Team(In Progress):</summary>
+
+
+</details>
+ ____________________________________________________________________________________________________________________
 <details>
   <summary>Like this repository? You'll love my other repository Dedicated to all things threats! (In progress)</summary>
 
@@ -228,10 +240,3 @@ ________________________________________________________________________________
    - <b>Mitigating</b>
   
 </details>
-
-<details>
-  <summary>🤓📖📚📝🔏 Governance Risk & Compliance(In Progress):</summary>
-
-
-</details>
- 
