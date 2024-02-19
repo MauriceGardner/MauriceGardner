@@ -58,7 +58,7 @@
    - [Decrypt an Encrypted Message | Creating Hash Values</summary>](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFpPhUBUK3AiHnviwDHHZid)</summary>
 </details>
 
-<details> <summary style="font-size: 15px;">🚨🤺Detection & Response:</summary>
+<details> <summary style="font-size: 15px;">🔍🚨🤺Detection & Response:</summary>
 
    - [Analyzing a Packet | Capturing a Packet | Exploring signatures and logs with Suricata](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFpPhUBUK3AiHnviwDHHZid)
 
@@ -234,6 +234,19 @@ ________________________________________________________________________________
 
 </details>
  ____________________________________________________________________________________________________________
+
+<details>
+  <summary>Artificial Intelligence | Artificial Intelligence Security(In Progress):</summary>
+  
+ - <b>[Artificial Intelligence)]
+  
+</details>
+
+__________________________________________________________________________________________________________________
+
+
+
+ 
 <details>
   <summary>Like this repository? You'll love my other repository Dedicated to all things threats! (In progress)</summary>
 
