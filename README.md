@@ -44,13 +44,13 @@
   <summary style="font-size: 15px;">📺 Full CyberSecurity Module Playlists:</summary>
   
    
-   - [Cybersecurity Fundamentals Playlist:](https://youtube.com/playlist?list=PLIfi-ZtjvjEHzlbTh_4Gpf0oqfsqoSfdD&si=Vx3Y7cUCQgnlZt8i)
-   - [Security+ Concept Labs Part 1:](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGXLCtnyrHmw_8iB2JhoMXd)
-   - [Security+ Concept Labs Part 2:](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEmerFdTBY30A1xvgjatALp)
-   - [Cyber Professional Tools Playlist Part 1(CySA+ Concepts):](https://youtube.com/playlist?list=PLIfi-ZtjvjEHvlhoeUub1PMpP0KkVb66F&si=fXrJGp5PVb4XsjwY)
-   - [Cyber Professional Tools Playlist Part 2(CySA+ Concepts):](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEHi9LPPztgYVLV4oA2l6fu-)
-   - [Enterprise Security Skills Development: Part 1(CASP+ Concepts):](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGzJW2KfkhdYHuOMlXQgttx)
-   - [Enterprise Security Skills Development: Part 2(CISSP Concepts):](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEKfTQz2Eh6pUZAbRHctkVl)
+   - [Cybersecurity Fundamentals Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEHzlbTh_4Gpf0oqfsqoSfdD&si=Vx3Y7cUCQgnlZt8i)
+   - [Security+ Concept Labs Part 1](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGXLCtnyrHmw_8iB2JhoMXd)
+   - [Security+ Concept Labs Part 2](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEmerFdTBY30A1xvgjatALp)
+   - [Cyber Professional Tools Playlist Part 1(CySA+ Concepts)](https://youtube.com/playlist?list=PLIfi-ZtjvjEHvlhoeUub1PMpP0KkVb66F&si=fXrJGp5PVb4XsjwY)
+   - [Cyber Professional Tools Playlist Part 2(CySA+ Concepts)](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEHi9LPPztgYVLV4oA2l6fu-)
+   - [Enterprise Security Skills Development: Part 1(CASP+ Concepts)](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGzJW2KfkhdYHuOMlXQgttx)
+   - [Enterprise Security Skills Development: Part 2(CISSP Concepts)](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEKfTQz2Eh6pUZAbRHctkVl)
 </details>
 
 <details>  <summary style="font-size: 15px;">👨🏾‍💻📝 Assets, Threats, & Vulnerabilities:</summary>                                                       
@@ -62,7 +62,7 @@
 <details>
   <summary style="font-size: 15px;">👨🏾‍💻🧠🔒Cyber Extras:(In Progress)</summary>                                                       
            
-   - [Cybersecurity Defensive Tools | Security and Permissions | Configuring a Local Security Policy on Server | Security Concepts in Windows and Linux Environments | Configuring Security Settings by Using Microsoft Group Policy | Implementing New Security Policies | Evaluating Security Policy, Guides and Templates | Managing Active Directory Groups | Configuring SQL Server Security | Implementing File Hashing | Data Science Sandbox:</summary>](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEF9gpDNDT1rlWn4KuQaDjr7)</summary>
+   - [Cybersecurity Defensive Tools | Security and Permissions | Configuring a Local Security Policy on Server | Security Concepts in Windows and Linux Environments | Configuring Security Settings by Using Microsoft Group Policy | Implementing New Security Policies | Evaluating Security Policy, Guides and Templates | Managing Active Directory Groups | Configuring SQL Server Security | Implementing File Hashing | Data Science Sandbox</summary>](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEF9gpDNDT1rlWn4KuQaDjr7)</summary>
 </details>
 
 
@@ -71,7 +71,7 @@ ________________________________________________________________________________
 <details>
   <summary style="font-size: 15px;">👨🏾‍💻 Networking Projects/Labs:</summary>
 
-   - [Securing Your Network Foundation: Building on Solid Ground(Based in CompTia Network+ Principles):](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFrQYXZ6UGmKvXHe8Ojtfby)
+   - [Securing Your Network Foundation: Building on Solid Ground(Based in CompTia Network+ Principles)](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFrQYXZ6UGmKvXHe8Ojtfby)
    - <b>General Networking Concepts(Based in CCNA principles)</b>
     - [Labs Playlist](In progress)<b><i></b></i>
 
@@ -85,7 +85,7 @@ ________________________________________________________________________________
 <details>
   <summary>👨🏾‍💻 Linux Projects:</summary>
 
-- <b>[Hands-on w/Linux Fundamentals:](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFflT-WnpmR_vE3K1EGRAuz)<b><i></b></i>
+- <b>[Hands-on w/Linux Fundamentals](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFflT-WnpmR_vE3K1EGRAuz)<b><i></b></i>
 - <b>[Using Linux w/ SQL]()<b><i></b></i>  
 
 </details>
@@ -97,7 +97,7 @@ ________________________________________________________________________________
 <details>
   <summary>👨🏾‍💻☁️ Cloud Projects/Labs:</summary>
   
- - <b>[Cloud Fundamentals for Azure & AWS(General Cloud Concepts):](https://youtube.com/playlist?list=PLIfi-ZtjvjEFKAnP8mRsHA7WxXKLS3NH1&si=jWZQ7WeKmGFCCN8T)<b><i></b></i>
+ - <b>[Cloud Fundamentals for Azure & AWS(General Cloud Concepts)](https://youtube.com/playlist?list=PLIfi-ZtjvjEFKAnP8mRsHA7WxXKLS3NH1&si=jWZQ7WeKmGFCCN8T)<b><i></b></i>
    
  - <b>[Cloud Deep Dive](https://youtube.com/playlist?list=PLIfi-ZtjvjEFVu0I-fM-tFQc3S5G0IlQq&si=MXCOL7TfaX_jMLvP)<b><i></b></i>
 
@@ -195,7 +195,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________
 
 <details>
-  <summary>SQL Projects:(In Progress):</summary>
+  <summary>SQL Projects(In Progress):</summary>
 
   </details>
 ____________________________________________________________________________________________________________
