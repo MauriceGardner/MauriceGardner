@@ -111,13 +111,10 @@ ________________________________________________________________________________
 
 <details>
   <summary>👨🏾‍💻☁️ Cloud Projects/Labs:</summary>
-
-  <summary style="font-size: 15px;">Full Cloud Module Playlists:</summary> 
   
-   - <b>Cloud Fundamentals for Azure & AWS(General Cloud Concepts)</b>
-    - [Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEFKAnP8mRsHA7WxXKLS3NH1&si=jWZQ7WeKmGFCCN8T)<b><i></b></i>
-   - <b>Cloud Deep Dive:</b>
-    - [Labs Playlist](https://youtube.com/playlist?list=PLIfi-ZtjvjEFVu0I-fM-tFQc3S5G0IlQq&si=MXCOL7TfaX_jMLvP)<b><i></b></i>
+ - <b>[Cloud Fundamentals for Azure & AWS(General Cloud Concepts):](https://youtube.com/playlist?list=PLIfi-ZtjvjEFKAnP8mRsHA7WxXKLS3NH1&si=jWZQ7WeKmGFCCN8T)<b><i></b></i>
+   
+   - <b>[Cloud Deep Dive:](https://youtube.com/playlist?list=PLIfi-ZtjvjEFVu0I-fM-tFQc3S5G0IlQq&si=MXCOL7TfaX_jMLvP)<b><i></b></i>
 
  <summary style="font-size: 15px;">🔐☁️Cloud Security Playlist:</summary> 
   
