@@ -101,7 +101,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________
 
 <details>
-  <summary>Python Automation for Security Professionals(In Progress):</summary>
+  <summary>🐍👨🏾‍💻Python Automation for Security Professionals(In Progress):</summary>
 
   </details>
 
