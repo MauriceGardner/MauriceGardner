@@ -95,6 +95,12 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________
 
 <details>
+  <summary>Python Automation for Security Professionals(In Progress):</summary>
+
+  </details>
+
+____________________________________________________________________________________________________________
+<details>
   <summary>👨🏾‍💻☁️ Cloud Projects/Labs:</summary>
   
  - <b>[Cloud Fundamentals for Azure & AWS(General Cloud Concepts)](https://youtube.com/playlist?list=PLIfi-ZtjvjEFKAnP8mRsHA7WxXKLS3NH1&si=jWZQ7WeKmGFCCN8T)<b><i></b></i>
@@ -199,13 +205,6 @@ ________________________________________________________________________________
 
   </details>
   
-____________________________________________________________________________________________________________
-
-<details>
-  <summary>Python Automation for Security Professionals(In Progress):</summary>
-
-  </details>
-
 ____________________________________________________________________________________________________________
 
 
