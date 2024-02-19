@@ -58,9 +58,9 @@
    - [Decrypt an Encrypted Message | Creating Hash Values</summary>](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFpPhUBUK3AiHnviwDHHZid)</summary>
 </details>
 
-<details> <summary style="font-size: 15px;"> Detection & Response:</summary>summary>
+<details> <summary style="font-size: 15px;"> Detection & Response:</summary>
 
-   - [Analyzing a Packet | Capturing a Packet | Explore signatures and logs with Suricata](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFpPhUBUK3AiHnviwDHHZid)
+   - [Analyzing a Packet | Capturing a Packet | Exploring signatures and logs with Suricata](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFpPhUBUK3AiHnviwDHHZid)
 
      </details>
 
