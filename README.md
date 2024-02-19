@@ -4,8 +4,8 @@
  <a href="https://drive.google.com/drive/folders/1cytq_bL7DLU_8-88umM2abnRDFWG4CrP?usp=drive_link">Programming(Python Automation)</a></h1>
 
 <details>
-  <summary>🔑 Key Security Topic Videos:</summary>
-
+  <summary>🔑 Key Security Topics:</summary>
+ 
   - <b>[SPLUNK(Incident Response Management Techniques)](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEHAP7gYgsY1T4-HdwbSuIV3)<b><i></b></i>
 
   - <b>[Securing & Monitoring Networks with Splunk, OpenVAS, & ZenMap](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGkmPHaBxxX9CgHbpsl9O47)<b><i></b></i>
