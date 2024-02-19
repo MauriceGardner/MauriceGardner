@@ -4,7 +4,7 @@
  <a href="https://drive.google.com/drive/folders/1cytq_bL7DLU_8-88umM2abnRDFWG4CrP?usp=drive_link">Programming(Python Automation)</a></h1>
 
 <details>
-  <summary>👨🏾‍💻 Key Security Topic Videos:</summary>
+  <summary>🔑 Key Security Topic Videos:</summary>
 
   - <b>[SPLUNK(Incident Response Management Techniques)](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEHAP7gYgsY1T4-HdwbSuIV3)<b><i></b></i>
 
