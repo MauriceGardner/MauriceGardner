@@ -77,7 +77,7 @@ ________________________________________________________________________________
   <summary>👨🏾‍💻 Networking Projects/Labs:</summary>
 
    - <b>General Networking Concepts(Based in CompTia Network+ principles)</b>
-    - [Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEHAP7gYgsY1T4-HdwbSuIV3)<b><i></b></i>
+    - [Labs Playlist](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFrQYXZ6UGmKvXHe8Ojtfby)<b><i></b></i>
    - <b>General Networking Concepts(Based in CCNA principles)</b>
     - [Labs Playlist](In progress)<b><i></b></i>
 
