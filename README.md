@@ -10,23 +10,23 @@
 
   - <b>[Securing & Monitoring Networks with Splunk, OpenVAS, & ZenMap](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGkmPHaBxxX9CgHbpsl9O47)<b><i></b></i>
 
-  - <b>[Vulnerability Identification & Management](https://youtube.com/playlist?list=PLIfi-ZtjvjEG5xUl6VAhXUM7aTzEo2cG_&si=ckuWMggP6iPENZge) <b><i></b></i>
+  - <b>[Vulnerability Identification & Management](https://youtube.com/playlist?list=PLIfi-ZtjvjEG5xUl6VAhXUM7aTzEo2cG_&si=ckuWMggP6iPENZge)<b><i></b></i>
 
-  - <b>[Security Assessment Techniques](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGa2P7ijS756FJHq1xXzpDD) <b><i></b></i>
+  - <b>[Security Assessment Techniques](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGa2P7ijS756FJHq1xXzpDD)<b><i></b></i>
 
-  - <b>[Digital Forensics & Incident Response](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFv0EUdt6_o2_ZC76kNQMRp) <b><i></b></i>
+  - <b>[Digital Forensics & Incident Response](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFv0EUdt6_o2_ZC76kNQMRp)<b><i></b></i>
 
-  - <b>[Security Controls & Protocols(Firewall & Network Security)](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGxyN1McoO5UQbmskWoeEqf)
-
-  - <b>[Encryption and Hashing](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFIdgUI-Ca0zhNf4hVYI1ew)
-
+  - <b>[Security Controls & Protocols(Firewall & Network Security)](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGxyN1McoO5UQbmskWoeEqf)<b><i></b></i>
+  
+  - <b>[Encryption and Hashing](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFIdgUI-Ca0zhNf4hVYI1ew)<b><i></b></i>
+  
   - <b>[Secure Network Communication](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEHmqUUhtw1EqxX1BwVrmkFh)<b><i></b></i>
 
   - <b>[Network Services and Protocols](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEHIyRBLU9sw3elTJqQnz5p0)<b><i></b></i>
 
   - <b>[Access Control and Authentication](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEauHLY--27UdFV6og9UCv9)<b><i></b></i>
 
-  - <b>[Scanning and Vulnerability Assessment:(Scanning Techniques)](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEdRIw1hio7gfGOwcSlvHIF)<b><i></b></i>
+  - <b>[Scanning and Vulnerability Assessment(Scanning Techniques)](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEEdRIw1hio7gfGOwcSlvHIF)<b><i></b></i>
 
 </details>
 <details>
@@ -37,7 +37,7 @@
 <details>
   <summary style="font-size: 15px;">👨🏾‍💻📝 Technical Documentation for all projects:</summary>                                                       
            
-   - [Protecting your Enterprise Network:</summary>](https://drive.google.com/drive/folders/17VWHwfbY7Axv_yGoMaCVyHN1CLpWGS5J?usp=drive_link)</summary>
+   - [Protecting your Enterprise Network</summary>](https://drive.google.com/drive/folders/17VWHwfbY7Axv_yGoMaCVyHN1CLpWGS5J?usp=drive_link)</summary>
 </details>
   
 <details>
