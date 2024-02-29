@@ -32,7 +32,7 @@
 <details>
   <summary>👨🏾‍💻Cyber Security Analyst:</summary>
 
-  - <b>[Analyst](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGr8S26V6o90IgJ4q_5Z4q_)<b><i></b></i>
+  - <b>[Essentials for Cyber Analyst](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEGr8S26V6o90IgJ4q_5Z4q_)<b><i></b></i>
 </details>
 <details>
   <summary>👨🏾‍💻📝 Threat Intellligence | Vulnerability Management(In Progress):</summary>
