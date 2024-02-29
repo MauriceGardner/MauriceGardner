@@ -30,6 +30,11 @@
 
 </details>
 <details>
+  <summary>👨🏾‍💻Cyber Security Analyst:</summary>
+
+  - <b>[MITRE ATT&CK](https://attack.mitre.org/)<b><i></b></i>
+</details>
+<details>
   <summary>👨🏾‍💻📝 Threat Intellligence | Vulnerability Management(In Progress):</summary>
 
   - <b>[MITRE ATT&CK](https://attack.mitre.org/)<b><i></b></i>
