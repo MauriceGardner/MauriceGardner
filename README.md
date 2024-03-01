@@ -81,10 +81,6 @@ ________________________________________________________________________________
   <summary style="font-size: 15px;">👨🏾‍💻 Networking Projects/Labs:</summary>
 
    - [Securing Your Network Foundation | Building on Solid Ground Based in CompTia Network+ Principles](https://www.youtube.com/playlist?list=PLIfi-ZtjvjEFrQYXZ6UGmKvXHe8Ojtfby)
-  
-   - <b>General Networking Concepts(Based in CCNA principles)</b>
-    - [Labs Playlist](In progress)<b><i></b></i>
-
 </details>
 
 
